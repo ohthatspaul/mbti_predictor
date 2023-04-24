@@ -8,20 +8,20 @@
 
 ## Demo
 
-App **[Link](https://)**<br>
+App **[Link](https://ohthatspaul-mbti-predictor-app-plccz0.streamlit.app/)**<br>
 
 ## Run Locally:
 
 1. Clone the project
 
 ```bash
-  git clone https://github.com/
+  git clone https://github.com/ohthatspaul/mbti_predictor
 ```
 
 2. Go to the project directory
 
 ```bash
-  cd Personality-Predictor
+  cd mbti_predictor
 ```
 
 3. Install dependencies
