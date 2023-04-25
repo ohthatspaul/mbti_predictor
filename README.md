@@ -3,7 +3,7 @@
 
 <p align='center'> 
 <a><img height='200px' src='assets/logo.png'></a>
->
+
 </p>
 
 ## Demo
