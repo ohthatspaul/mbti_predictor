@@ -79,8 +79,8 @@ col1, col2, col3 = st.columns([0.2, 0.5, 0.2])
 col2.image(image, use_column_width=True)
 
 if selected_sect == 'Personality Prediction Tool':
-    st.subheader("Do you have an elvator pitch? Let's gues your MBTI...")
-    user_input = st.text_input(value="", label="Enter text here:",
+    st.subheader("Do you have an elevator pitch? Let's guess your MBTI...")
+    user_input = st.text_input(height=3,value="", label="Enter text here:",
                                help="Type in your elevator pitch, then press the Enter!")
 
     st.info("Meaningful Sentences only!")
